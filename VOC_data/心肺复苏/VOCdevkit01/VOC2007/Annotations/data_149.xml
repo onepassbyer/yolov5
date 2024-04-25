@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>data_149.jpg</filename>
+	<path>E:\CPR\data\data_149.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p_nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>340</ymin>
+			<xmax>343</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

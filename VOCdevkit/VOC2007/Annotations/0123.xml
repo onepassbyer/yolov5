@@ -1,0 +1,49 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>frame_0123.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>plank</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>1549</xmin>
+            <ymin>416</ymin>
+            <xmax>1879</xmax>
+            <ymax>956</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1743</xmin>
+            <ymin>110</ymin>
+            <xmax>1914</xmax>
+            <ymax>926</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>extinguisher</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>723</xmin>
+            <ymin>617</ymin>
+            <xmax>807</xmax>
+            <ymax>876</ymax>
+        </bndbox>
+    </object>
+</annotation>

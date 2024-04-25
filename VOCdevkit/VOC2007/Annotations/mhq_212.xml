@@ -1,0 +1,25 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>mhq_212.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>790</width>
+        <height>1090</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>extinguisher</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>167</xmin>
+            <ymin>42</ymin>
+            <xmax>566</xmax>
+            <ymax>1048</ymax>
+        </bndbox>
+    </object>
+</annotation>

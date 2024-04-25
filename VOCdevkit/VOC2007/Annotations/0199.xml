@@ -1,0 +1,61 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>frame_0199.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>extinguisher</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>714</xmin>
+            <ymin>608</ymin>
+            <xmax>806</xmax>
+            <ymax>874</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1089</xmin>
+            <ymin>315</ymin>
+            <xmax>1519</xmax>
+            <ymax>920</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>fire sandbox</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1371</xmin>
+            <ymin>663</ymin>
+            <xmax>1600</xmax>
+            <ymax>918</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>714</xmin>
+            <ymin>165</ymin>
+            <xmax>1107</xmax>
+            <ymax>881</ymax>
+        </bndbox>
+    </object>
+</annotation>

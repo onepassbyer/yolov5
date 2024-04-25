@@ -1,0 +1,49 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>frame_0212.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>people</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>13</xmin>
+            <ymin>93</ymin>
+            <xmax>370</xmax>
+            <ymax>873</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>735</xmin>
+            <ymin>0</ymin>
+            <xmax>1059</xmax>
+            <ymax>988</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>fire sandbox</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1356</xmin>
+            <ymin>676</ymin>
+            <xmax>1596</xmax>
+            <ymax>929</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,85 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>frame_0631.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>people</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>920</xmin>
+            <ymin>0</ymin>
+            <xmax>1191</xmax>
+            <ymax>823</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>face shield</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>937</xmin>
+            <ymin>0</ymin>
+            <xmax>1109</xmax>
+            <ymax>182</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>736</xmin>
+            <ymin>13</ymin>
+            <xmax>850</xmax>
+            <ymax>137</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>welding gloves</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>389</ymin>
+            <xmax>1162</xmax>
+            <ymax>572</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>extinguisher</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1147</xmin>
+            <ymin>580</ymin>
+            <xmax>1232</xmax>
+            <ymax>809</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>628</xmin>
+            <ymin>14</ymin>
+            <xmax>950</xmax>
+            <ymax>755</ymax>
+        </bndbox>
+    </object>
+</annotation>

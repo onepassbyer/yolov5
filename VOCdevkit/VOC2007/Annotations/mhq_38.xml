@@ -1,0 +1,37 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>mhq_38.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1920</width>
+        <height>1920</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>extinguisher</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>146</xmin>
+            <ymin>114</ymin>
+            <xmax>967</xmax>
+            <ymax>1808</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>extinguisher</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1059</xmin>
+            <ymin>14</ymin>
+            <xmax>1736</xmax>
+            <ymax>1912</ymax>
+        </bndbox>
+    </object>
+</annotation>

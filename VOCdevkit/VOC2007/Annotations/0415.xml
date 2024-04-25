@@ -1,0 +1,37 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>frame_0415.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>people</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>224</ymin>
+            <xmax>43</xmax>
+            <ymax>800</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>plank</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>546</xmin>
+            <ymin>760</ymin>
+            <xmax>1013</xmax>
+            <ymax>926</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,49 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>mhq_153.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>741</width>
+        <height>2298</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>extinguisher</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>195</xmin>
+            <ymin>41</ymin>
+            <xmax>587</xmax>
+            <ymax>768</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>extinguisher</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>205</xmin>
+            <ymin>793</ymin>
+            <xmax>525</xmax>
+            <ymax>1476</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>extinguisher</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>10</xmin>
+            <ymin>1552</ymin>
+            <xmax>290</xmax>
+            <ymax>2228</ymax>
+        </bndbox>
+    </object>
+</annotation>

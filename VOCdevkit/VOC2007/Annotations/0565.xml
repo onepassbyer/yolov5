@@ -1,0 +1,73 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>frame_0565.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>welding gloves</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>1020</xmin>
+            <ymin>166</ymin>
+            <xmax>1140</xmax>
+            <ymax>308</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>extinguisher</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1135</xmin>
+            <ymin>594</ymin>
+            <xmax>1185</xmax>
+            <ymax>821</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>welding gloves</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1193</xmin>
+            <ymin>99</ymin>
+            <xmax>1314</xmax>
+            <ymax>308</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>face shield</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1079</xmin>
+            <ymin>0</ymin>
+            <xmax>1227</xmax>
+            <ymax>181</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>11</ymin>
+            <xmax>1331</xmax>
+            <ymax>921</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_img</folder>
+	<filename>frame_0291.jpg</filename>
+	<path>E:\windows_v1.8.0-labelimg\new_img\frame_0291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>people</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1778</xmin>
+			<ymin>119</ymin>
+			<xmax>1920</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire sandbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1363</xmin>
+			<ymin>679</ymin>
+			<xmax>1601</xmax>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+</annotation>

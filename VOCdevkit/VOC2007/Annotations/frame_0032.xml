@@ -1,0 +1,121 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>frame_0032.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>welding gloves</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>324</xmin>
+            <ymin>218</ymin>
+            <xmax>406</xmax>
+            <ymax>270</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>374</xmin>
+            <ymin>159</ymin>
+            <xmax>453</xmax>
+            <ymax>236</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>extinguisher</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>367</xmin>
+            <ymin>374</ymin>
+            <xmax>413</xmax>
+            <ymax>541</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>face shield</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>817</xmin>
+            <ymin>228</ymin>
+            <xmax>898</xmax>
+            <ymax>324</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>plank</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>412</xmin>
+            <ymin>413</ymin>
+            <xmax>656</xmax>
+            <ymax>484</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>174</xmin>
+            <ymin>7</ymin>
+            <xmax>366</xmax>
+            <ymax>635</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>fire sandbox</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>501</xmin>
+            <ymin>470</ymin>
+            <xmax>663</xmax>
+            <ymax>648</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>662</xmin>
+            <ymin>31</ymin>
+            <xmax>862</xmax>
+            <ymax>497</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>848</xmin>
+            <ymin>48</ymin>
+            <xmax>1025</xmax>
+            <ymax>615</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,61 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>frame_0541.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>face shield</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>1070</xmin>
+            <ymin>0</ymin>
+            <xmax>1201</xmax>
+            <ymax>201</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>907</xmin>
+            <ymin>5</ymin>
+            <xmax>1204</xmax>
+            <ymax>899</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>people</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1440</xmin>
+            <ymin>118</ymin>
+            <xmax>1903</xmax>
+            <ymax>1080</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>extinguisher</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1148</xmin>
+            <ymin>574</ymin>
+            <xmax>1235</xmax>
+            <ymax>812</ymax>
+        </bndbox>
+    </object>
+</annotation>

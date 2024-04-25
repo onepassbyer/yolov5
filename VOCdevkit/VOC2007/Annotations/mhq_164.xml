@@ -1,0 +1,37 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>mhq_164.JPG</filename>
+<source>
+<database>Unknown</database>
+</source>
+    <size>
+        <width>1920</width>
+        <height>1920</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>extinguisher</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>180</xmin>
+            <ymin>103</ymin>
+            <xmax>954</xmax>
+            <ymax>1789</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>extinguisher</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1077</xmin>
+            <ymin>12</ymin>
+            <xmax>1740</xmax>
+            <ymax>1886</ymax>
+        </bndbox>
+    </object>
+</annotation>

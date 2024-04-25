@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>data_3030.jpg</filename>
+	<path>E:\CPR\data\data_3030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>k_neat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>335</ymin>
+			<xmax>407</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+</annotation>

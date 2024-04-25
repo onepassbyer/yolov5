@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>data_1343.jpg</filename>
+	<path>E:\CPR\data\data_1343.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>231</ymin>
+			<xmax>483</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

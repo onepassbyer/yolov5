@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>data_1253.jpg</filename>
+	<path>E:\CPR\data\data_1253.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>245</ymin>
+			<xmax>334</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

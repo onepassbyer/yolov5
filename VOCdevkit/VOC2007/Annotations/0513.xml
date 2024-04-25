@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_img</folder>
+	<filename>frame_0513.jpg</filename>
+	<path>E:\windows_v1.8.0-labelimg\new_img\frame_0513.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>welding gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1001</xmin>
+			<ymin>343</ymin>
+			<xmax>1114</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>people</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>944</xmin>
+			<ymin>2</ymin>
+			<xmax>1306</xmax>
+			<ymax>931</ymax>
+		</bndbox>
+	</object>
+</annotation>
